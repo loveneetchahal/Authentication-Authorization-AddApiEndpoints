@@ -18,4 +18,6 @@ Asp.net Core 8.0, Sql Server, Identity, Entity Framework, Exception Handling
 ## Demo
 
 [Reference & Demo Here](https://youtu.be/bPfNKTK5G5w?si=oVkfjxqikvy6tPRh)
+[Thanks to Nitish](https://github.com/nitish-kaushik)
+
 
